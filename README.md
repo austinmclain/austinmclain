@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 I'm a full-time student pursuing a Bachelor of Science in computer science, a minor in mathematics, and a certificate in web and mobile application development.
 
-- 🔭 I’m currently working on a research project with an emphasis in API development for an image analytics PaaS.
+- 🔭 I’m currently working on a research project with an emphasis on API development for an image analytics PaaS.
+- 🌱 I’m currently learning how to use AWS.
