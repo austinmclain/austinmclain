@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a full-time student pursuing a Bachelor of Science in computer science, a minor in mathematics, and a certificate in web and mobile application development.
+I'm a full-time student pursuing a Bachelor of Science in computer science!
 
-- 🔭 I’m currently learning Go and Rust.
-- 🌱 I’ve been exploring AWS and have recently built a full-stack web app that uses CloudFormation, ECS, DynamoDB, Lambda, SQS, and SNS.
+- 🌱 I’m currently learning Rust and Go.
+- ⚡ Fun fact: Typing "import antigravity" in the Python interpreter triggers an Easter egg...
