@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 I'm a full-time student pursuing a Bachelor of Science in computer science!
 
 - 🌱 I’m currently learning Rust and Go.
-- ⚡ Fun fact: Typing "import antigravity" in the Python interpreter triggers an Easter egg...
+- ⚡ Fun fact: Typing "import antigravity" in the Python interpreter triggers an Easter egg.
